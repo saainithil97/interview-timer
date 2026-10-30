@@ -1,0 +1,9 @@
+# Build output
+TimerBar.app/
+*.app
+
+# macOS
+.DS_Store
+
+# Local state (never commit timers/config)
+*.log
